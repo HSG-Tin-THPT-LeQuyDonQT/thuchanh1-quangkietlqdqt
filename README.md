@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4yaFvLzw)
 # bai-tap-thuc-hanh-1
 Câu 1: Viết chương trình cho số tự nhiên n (ví dụ n = 1234), tính và in ra tổng các chữ số của n.
 
